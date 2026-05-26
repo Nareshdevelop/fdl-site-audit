@@ -1,0 +1,33 @@
+{
+  "name": "fdl-site-audit",
+  "version": "1.0.0",
+  "description": "Free, deterministic, zero-dependency website audit library. Scores any website on Performance, SEO, Mobile, Security, and AEO. Powered by fivedaylaunch.com.",
+  "main": "audit.js",
+  "scripts": {
+    "test": "node test/audit.test.js",
+    "example": "node examples/example.js"
+  },
+  "keywords": [
+    "website-audit",
+    "seo",
+    "lighthouse-alternative",
+    "aeo",
+    "answer-engine-optimization",
+    "small-business",
+    "site-quality",
+    "performance",
+    "mobile-friendly",
+    "structured-data"
+  ],
+  "author": "fivedaylaunch.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fivedaylaunch/fdl-site-audit.git"
+  },
+  "homepage": "https://fivedaylaunch.com/sites",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
